@@ -94,11 +94,11 @@ Beyond academics, my diverse hands-on background in customer-facing and logistic
 
 ### 📬 Connect With Me
 
-- 🌐 **Portfolio Website:** [Andrew Manangan Portfolio](file:///C:/Users/andre/Desktop/Andrew%20Manangan/index.html)
+
 - 🐙 **GitHub Profile:** [github.com/Popcorn079](https://github.com/Popcorn079)
 - 💼 **LinkedIn:** [Andrew Manangan](https://linkedin.com/in/andrew-manangan)
 - 📧 **Email:** [andrewmanangan6@gmail.com](mailto:andrewmanangan6@gmail.com)
-- 📍 **Location:** 496 Tabigo St, Commonwealth, Quezon City, Philippines
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
