@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="profile.jpg" alt="Andrew Manangan" width="180" style="border-radius: 12px; margin-left: 20px; margin-bottom: 15px;" />
+
 
 I am a dedicated **4th-year BS Computer Engineering undergraduate** at **ICCT Colleges (Cainta Campus)** with a strong blend of hardware comprehension, practical problem-solving, and programming skills. 
 
