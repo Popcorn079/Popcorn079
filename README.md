@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="file:///C:/Users/andre/Desktop/Andrew%20Manangan/index.html"><img src="https://img.shields.io/badge/Portfolio-View%20Website-FF6363?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
   <a href="mailto:andrewmanangan6@gmail.com"><img src="https://img.shields.io/badge/Email-andrewmanangan6%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://linkedin.com/in/andrew-manangan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://github.com/Popcorn079"><img src="https://img.shields.io/badge/GitHub-Popcorn079-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
@@ -13,7 +14,6 @@
 ---
 
 ### 👨‍💻 About Me
-
 
 
 I am a dedicated **4th-year BS Computer Engineering undergraduate** at **ICCT Colleges (Cainta Campus)** with a strong blend of hardware comprehension, practical problem-solving, and programming skills. 
@@ -94,6 +94,7 @@ Beyond academics, my diverse hands-on background in customer-facing and logistic
 
 ### 📬 Connect With Me
 
+- 🌐 **Portfolio Website:** [Andrew Manangan Portfolio](file:///C:/Users/andre/Desktop/Andrew%20Manangan/index.html)
 - 🐙 **GitHub Profile:** [github.com/Popcorn079](https://github.com/Popcorn079)
 - 💼 **LinkedIn:** [Andrew Manangan](https://linkedin.com/in/andrew-manangan)
 - 📧 **Email:** [andrewmanangan6@gmail.com](mailto:andrewmanangan6@gmail.com)
