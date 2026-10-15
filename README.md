@@ -1,13 +1,11 @@
-# <h1 align="center">Hi there, I'm Andrew Manangan 👋</h1>
+# <h1 align="center">Hi there, I'm Manangan, Andrew G. 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=Andrew%20Manangan&fontSize=50&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descAlign=50" alt="Andrew Manangan Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=Manangan,%20Andrew%20G.&fontSize=46&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Hardware%20Diagnostics&descAlignY=58&descAlign=50" alt="Manangan, Andrew G. Header" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="file:///C:/Users/andre/Desktop/Andrew%20Manangan/index.html"><img src="https://img.shields.io/badge/Portfolio-View%20Website-FF6363?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
   <a href="mailto:andrewmanangan6@gmail.com"><img src="https://img.shields.io/badge/Email-andrewmanangan6%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://linkedin.com/in/andrew-manangan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://github.com/Popcorn079"><img src="https://img.shields.io/badge/GitHub-Popcorn079-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </p>
 
@@ -15,14 +13,13 @@
 
 ### 👨‍💻 About Me
 
+I am a dedicated **BS Computer Engineering undergraduate** at **ICCT Colleges (Cainta Campus)** & **EARIST (Computer Programming)** with a strong blend of hardware comprehension, systems programming, and hands-on operational resilience.
 
-I am a dedicated **4th-year BS Computer Engineering undergraduate** at **ICCT Colleges (Cainta Campus)** with a strong blend of hardware comprehension, practical problem-solving, and programming skills. 
-
-- 🎓 **Education:** 4th Year BS in Computer Engineering at ICCT Colleges
-- 💡 **Focus:** Software Development, Hardware Technicalities, Systems, and Data Management
-- 🛠️ **Core Technologies:** C++, Python, Visual FoxPro, JavaScript, SQL
-- 🎨 **Creative Edge:** Passionate about Arts & Visual Aesthetics, bringing an eye for detail and design into software interfaces
-- ⚡ **Superpower:** Hands-on resilience, fast learning curve, and experience thriving in high-tempo, detail-oriented environments
+- 🎓 **Education:** BS Computer Engineering (ICCT Colleges) &bull; Computer Programming (EARIST)
+- 💡 **Focus:** Systems Software, C++, Python, SQL & Relational Databases, PC Diagnostics & Assembly
+- 🛠️ **Core Technologies:** C++, Python, Visual FoxPro, JavaScript, SQL, HTML5, CSS3, Git
+- 🎨 **Creative Focus:** Passionate about Arts & Clean Minimal UI Design
+- ⚡ **Strengths:** Hands-on resilience, rapid troubleshooting, and thriving under high-tempo operational demands
 
 ---
 
@@ -51,29 +48,26 @@ I am a dedicated **4th-year BS Computer Engineering undergraduate** at **ICCT Co
 
 ---
 
-### 🎓 Education & Background
+### 🎓 Education
 
-- **ICCT Colleges, Cainta Campus** *(Cainta, Rizal)*
-  - **Bachelor of Science in Computer Engineering (BSCpE)**
-  - *Status:* 4th Year Undergraduate
-  - *Key Focus:* Computer Literacy, Digital Logic, Programming, Computer Hardware & Technicalities
-- **Eulogio "Amang" Rodriguez Institute of Science and Technology (EARIST)** *(Sampaloc, Manila)*
-  - Higher Education & Engineering Coursework
-- **Commonwealth High School** *(Quezon City, Metro Manila)*
-  - Secondary Education
+- **ICCT Colleges (Cainta Campus)**
+  - *Bachelor of Science in Computer Engineering (BSCpE) &bull; Undergraduate*
+  - *Coursework:* Computer Literacy, Systems Engineering, Hardware Diagnostics
+- **EARIST**
+  - *Computer Programming*
+- **Commonwealth High School**
+  - *Secondary Education*
 
 ---
 
-### 💼 Experience & Transferable Strengths
-
-Beyond academics, my diverse hands-on background in customer-facing and logistics operations has forged key professional qualities:
+### 💼 Experience & Operational Strengths
 
 - **High-Velocity Adaptability & Process Organization:**
-  - *Shopee Express (Factory Worker):* Handled high-volume parcel sorting and destination routing with precision under tight logistics schedules.
-- **Customer Focus & Fast-Paced Multitasking:**
-  - *Brewgasm & Coops Chicken (Crew / Barista / Cashier):* Managed order processing, cashier transactions, food & beverage craft, and cleanliness in fast-moving hospitality environments.
+  - *Shopee Express:* Handled high-volume parcel sorting and destination routing with zero-defect accuracy under strict departure windows.
+- **Customer Focus & Multitasking:**
+  - *Brewgasm & Coops Chicken:* Managed customer intake, POS terminal auditing, beverage/culinary preparation, and strict workstation sanitation.
 - **Resilience & Attention to Detail:**
-  - *Poultry Farm Operations (Crew):* Demonstrated strong work ethic, inventory counting, and strict adherence to hygiene standards.
+  - *Poultry Farm Operations:* Demonstrated physical stamina, inventory tracking, and facility hygiene standards.
 
 ---
 
@@ -81,8 +75,8 @@ Beyond academics, my diverse hands-on background in customer-facing and logistic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Popcorn079&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Andrew's GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Popcorn079&theme=tokyonight&hide_border=true" alt="Andrew's Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Popcorn079&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Popcorn079&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
 <br/>
 
@@ -94,11 +88,8 @@ Beyond academics, my diverse hands-on background in customer-facing and logistic
 
 ### 📬 Connect With Me
 
-
 - 🐙 **GitHub Profile:** [github.com/Popcorn079](https://github.com/Popcorn079)
-- 💼 **LinkedIn:** [Andrew Manangan](https://linkedin.com/in/andrew-manangan)
 - 📧 **Email:** [andrewmanangan6@gmail.com](mailto:andrewmanangan6@gmail.com)
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
