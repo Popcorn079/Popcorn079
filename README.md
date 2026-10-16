@@ -1,96 +1,87 @@
-# <h1 align="center">Hi there, I'm Manangan, Andrew G. 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=Manangan,%20Andrew%20G.&fontSize=46&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Hardware%20Diagnostics&descAlignY=58&descAlign=50" alt="Manangan, Andrew G. Header" width="100%"/>
-</p>
+### Hi there, I'm Ruben Escobal III 
 
-<p align="center">
-  <a href="mailto:andrewmanangan6@gmail.com"><img src="https://img.shields.io/badge/Email-andrewmanangan6%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://github.com/Popcorn079"><img src="https://img.shields.io/badge/GitHub-Popcorn079-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-</p>
+<img src="assets/portfolio-banner.svg" alt="Ruben Escobal III — Computer Engineering Student | Entrepreneur | Organizer" width="100%">
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-Contact%20me-ef5350?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubenescobaliii@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit%20my%20repo-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubenescobaliii-lab/rubeniii)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20website-547c23?style=for-the-badge&logo=googlechrome&logoColor=white)](index.html)
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a dedicated **BS Computer Engineering undergraduate** at **ICCT Colleges (Cainta Campus)** & **EARIST (Computer Programming)** with a strong blend of hardware comprehension, systems programming, and hands-on operational resilience.
+I'm a fourth-year **BS Computer Engineering student at ICCT Colleges** and an entrepreneur with experience in the food cart and small car dealership and sales industries. I also served as Secretary for the Department of Barangay Mambugan, supporting paperwork and budget proposals.
 
-- 🎓 **Education:** BS Computer Engineering (ICCT Colleges) &bull; Computer Programming (EARIST)
-- 💡 **Focus:** Systems Software, C++, Python, SQL & Relational Databases, PC Diagnostics & Assembly
-- 🛠️ **Core Technologies:** C++, Python, Visual FoxPro, JavaScript, SQL, HTML5, CSS3, Git
-- 🎨 **Creative Focus:** Passionate about Arts & Clean Minimal UI Design
-- ⚡ **Strengths:** Hands-on resilience, rapid troubleshooting, and thriving under high-tempo operational demands
+- 🎓 Studying Computer Engineering at **ICCT Colleges**
+- 💼 Small business owner in food carts and car sales
+- 🏛️ Barangay Mambugan department secretary
+- 🗂️ Interested in organizing, project assistance, and administrative work
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🧰 Tech Stack & Skills
 
 <div align="center">
 
-#### 💻 Programming & Databases
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Programming**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Visual FoxPro](https://img.shields.io/badge/Visual_FoxPro-0078D7?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🔧 Tools, Hardware & Office Productivity
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Hardware Diagnostics](https://img.shields.io/badge/PC_Hardware-Assembly_%26_Diagnostics-gray?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
-![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MS PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+**Office & Productivity**  
+![Microsoft Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
 
 </div>
+
+**Additional strengths:** paperwork · budget proposals · documentation · organizing · project assistance
 
 ---
 
 ### 🎓 Education
 
-- **ICCT Colleges (Cainta Campus)**
-  - *Bachelor of Science in Computer Engineering (BSCpE) &bull; Undergraduate*
-  - *Coursework:* Computer Literacy, Systems Engineering, Hardware Diagnostics
-- **EARIST**
-  - *Computer Programming*
-- **Commonwealth High School**
-  - *Secondary Education*
+- **ICCT Colleges** — 4th-year BS Computer Engineering student
 
 ---
 
-### 💼 Experience & Operational Strengths
+### 💼 Experience & Initiative
 
-- **High-Velocity Adaptability & Process Organization:**
-  - *Shopee Express:* Handled high-volume parcel sorting and destination routing with zero-defect accuracy under strict departure windows.
-- **Customer Focus & Multitasking:**
-  - *Brewgasm & Coops Chicken:* Managed customer intake, POS terminal auditing, beverage/culinary preparation, and strict workstation sanitation.
-- **Resilience & Attention to Detail:**
-  - *Poultry Farm Operations:* Demonstrated physical stamina, inventory tracking, and facility hygiene standards.
+- **Secretary, Department of Barangay Mambugan** — paperwork and budget proposal support
+- **Entrepreneur** — food cart business and small car dealership and sales
+- **Organizer & Project Assistant** — coordination and practical project support
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Popcorn079&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Popcorn079&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+[![GitHub repository](https://github-readme-stats.vercel.app/api/pin/?username=rubenescobaliii-lab&repo=rubeniii&theme=github_dark&hide_border=true)](https://github.com/rubenescobaliii-lab/rubeniii)
 
-<br/>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenescobaliii-lab&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)](https://github.com/rubenescobaliii-lab)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popcorn079&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+[![GitHub streak](https://streak-stats.demolab.com?user=rubenescobaliii-lab&theme=github-dark-blue&hide_border=true)](https://github.com/rubenescobaliii-lab)
 
 </div>
 
 ---
 
-### 📬 Connect With Me
+### 🤝 Connect With Me
 
-- 🐙 **GitHub Profile:** [github.com/Popcorn079](https://github.com/Popcorn079)
-- 📧 **Email:** [andrewmanangan6@gmail.com](mailto:andrewmanangan6@gmail.com)
+- 🌐 **GitHub:** [rubenescobaliii-lab](https://github.com/rubenescobaliii-lab) · [Portfolio repository](https://github.com/rubenescobaliii-lab/rubeniii)
+- ✉️ **Email:** [rubenescobaliii@gmail.com](mailto:rubenescobaliii@gmail.com)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
-</p>
+<div align="center">
+
+<sub>Thanks for stopping by! 👋</sub>
+
+</div>
