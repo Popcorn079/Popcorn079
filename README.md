@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=Manangan,%20Andrew%20G.&fontSize=46&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Hardware%20Diagnostics&descAlignY=58&descAlign=50" alt="I'm Manangan, Andrew G. Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=Manangan,%20Andrew%20G.&fontSize=46&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Hardware%20Diagnostics&descAlignY=58&descAlign=50" alt=" I'm Manangan, Andrew G. Header" width="100%"/>
 </p>
 
 <p align="center">
